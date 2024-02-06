@@ -8,7 +8,7 @@ html {
   font-family: 'Roboto', sans-serif;
   line-height: 1.5;
 
-  color: #ebe7ef;
+  color: #6e0ad1;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -82,7 +82,7 @@ header h1 {
   max-width: 50rem;
   margin: auto;
   padding: 2rem;
-  background: linear-gradient(180deg, #3e2a60 0%, #321061 100%);
+  background: linear-gradient(180deg, #f09b70 0%, #d2a640 100%);
   border-radius: 8px;
   /* box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.6); */
   box-shadow: 1px 1px 8px 4px rgba(12, 5, 32, 0.6);
